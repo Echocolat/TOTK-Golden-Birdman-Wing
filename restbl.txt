@@ -1,0 +1,8 @@
+Pack/Actor/SpObj_LiftGeneratorWing_A_01_MiniGame.pack : 
+Actor/SpObj_LiftGeneratorWing_A_01_MiniGame.engine__actor__ActorParam.bgyml : 
+Component/ModelInfo/SpObj_LiftGeneratorWing_A_01_MiniGame.engine__component__ModelInfo.bgyml : 
+Model/SpObj_LiftGeneratorWing_A.SpObj_LiftGeneratorWing_A_01_MiniGame.bfres : 
+TexToGo/Rock_LiftGeneratorWing_A_MiniGame_Alb.txtg : 
+TexToGo/Rock_LiftGeneratorWing_B_MiniGame_Alb.txtg : 
+TexToGo/Rock_ZonauGearHeadGreenDeep_A_MiniGame_Alb.txtg : 
+TexToGo/SpObj_ZonauLightMetal_A_MiniGame_Alb.txtg : 
